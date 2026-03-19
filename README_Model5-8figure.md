@@ -346,16 +346,6 @@ panels.forEach(p => {
 
 ---
 
-## To save as an image
-
-Open `mp_interaction_panels.html` in a browser, then use your OS screenshot tool to capture the figure:
-
-- **Mac:** `Cmd + Shift + 4` — drag to select
-- **Windows:** `Win + Shift + S` — drag to select
-- **Browser:** Right-click → "Save as image" (Chrome DevTools)
-
----
-
 ## Citation
 
 If you use or adapt this figure, please cite:
